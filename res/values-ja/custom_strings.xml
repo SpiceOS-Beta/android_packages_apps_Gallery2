@@ -23,8 +23,8 @@
     <string name="unit_sec">秒</string>
     <string name="slideshow_duration_title">遅延時間</string>
     <string name="video_settings">ビデオ</string>
-    <string name="video_one_title">Video1</string>
-    <string name="video_two_title">Video2</string>
+    <string name="video_one_title">ビデオ1</string>
+    <string name="video_two_title">ビデオ2</string>
     <string name="group_by_type">種類別</string>
     <string name="types">種類</string>
     <string name="type">種類</string>
